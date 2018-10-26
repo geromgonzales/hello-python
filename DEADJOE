@@ -1,24 +1,22 @@
 
-*** These modified files were found in JOE when it aborted on Thu Oct 25 23:58:17 2018
+*** These modified files were found in JOE when it aborted on Fri Oct 26 15:58:45 2018
 *** JOE was aborted because the terminal closed
 
 *** File '(Unnamed)'
-/home/students/SHS/hello.python/.git/COMMIT_EDITMSG
+/home/students/SHS/hello.python/.git/MERGE_MSG
 
-*** File '/home/students/SHS/hello.python/.git/COMMIT_EDITMSG'
+*** File '/home/students/SHS/hello.python/.git/MERGE_MSG'
+master
+Merge branch 'master' of https://github.com/geromgonzales/hello-python
 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
 #
-# On branch master
-# Your branch is up to date with 'origin/master'.
-#
-# Changes to be committed:
-#	new file:   __pycache__/sys_argv.cpython-36.pyc
-#	new file:   gonzales_e2.py
-#	new file:   gonzales_e3.py
-#	new file:   inputting.py
-#	new file:   sys_argv.py
-#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
 
 *** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
